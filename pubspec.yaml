@@ -11,7 +11,7 @@ environment:
 
 dependencies:
   archive: ^4.0.9
-  meta: ^1.18.2
+  meta: ^1.18.0
   xml: ^7.0.1
 
 dev_dependencies:
